@@ -1,0 +1,401 @@
+[Root]
+Most Recent Package=Standard Setup Package 2
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView 5 Package\StackView 5 Package v2
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+
+[Package|Dep File 1|Missing Dependency Information]
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM32\scrrun.dll=
+
+[Package|Dep File 1|Files Added]
+
+[Package|Dep File 1|Files Removed]
+
+[Package|Dep File 1|Files In Project]
+C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\Project Files\StackView.exe=Yes
+C:\WINDOWS\SYSTEM32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\SYSTEM32\scrrun.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\WINDOWS\SYSTEM32\comdlg32.ocx=Yes
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\SYSTEM32\tabctl32.ocx=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=Yes
+C:\WINDOWS\SYSTEM32\msjet40.dll=Yes
+C:\WINDOWS\SYSTEM32\msjter40.dll=Yes
+C:\WINDOWS\SYSTEM32\msjint40.dll=Yes
+C:\WINDOWS\SYSTEM32\vbajet32.dll=Yes
+C:\WINDOWS\SYSTEM32\expsrv.dll=Yes
+C:\WINDOWS\SYSTEM32\mswstr10.dll=Yes
+C:\WINDOWS\SYSTEM32\mswdat10.dll=Yes
+C:\WINDOWS\SYSTEM32\msrd2x40.dll=Yes
+C:\WINDOWS\SYSTEM32\msrd3x40.dll=Yes
+C:\WINDOWS\SYSTEM32\msrepl40.dll=Yes
+C:\WINDOWS\SYSTEM32\msjtes40.dll=Yes
+C:\WINDOWS\SYSTEM32\VB5DB.DLL=Yes
+C:\WINDOWS\SYSTEM32\MSBIND.DLL=Yes
+C:\Program Files\Common Files\System\ADO\msado25.tlb=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=No
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Dep File 1|Install Locations]
+C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\Project Files\StackView.exe=$(AppPath)
+C:\WINDOWS\SYSTEM32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\scrrun.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\tabctl32.ocx=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(MSDAOPath)
+C:\WINDOWS\SYSTEM32\msjet40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSBIND.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Program Files\Common Files\System\ADO\msado25.tlb=$(CommonFilesSys)\ADO
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\Project Files\StackView.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Dep File 1|Distribution]
+Type=single
+Size=
+Title=StackView
+
+[Package|Dep File 1|IconGroups]
+Group0=StackView
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Dep File 1|StackView]
+Icon1=StackView.exe
+Title1=StackView
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Dep File 1|DepFile]
+DepCabFile=StackView.CAB
+DepCabRun=StackView.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView 5 Package\StackView 5 Package v2
+ProjectFolder=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5
+ServerSideCab=
+File1=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView 5 Package\StackView 5 Package v2\StackView.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM32\scrrun.dll=
+
+[Package|Standard Setup Package 1|Files Added]
+C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView User Guide.pdf=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\WINDOWS\SYSTEM32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\SYSTEM32\scrrun.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\WINDOWS\SYSTEM32\comdlg32.ocx=Yes
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\SYSTEM32\tabctl32.ocx=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=Yes
+C:\WINDOWS\SYSTEM32\msjet40.dll=Yes
+C:\WINDOWS\SYSTEM32\msjter40.dll=Yes
+C:\WINDOWS\SYSTEM32\msjint40.dll=Yes
+C:\WINDOWS\SYSTEM32\vbajet32.dll=Yes
+C:\WINDOWS\SYSTEM32\expsrv.dll=Yes
+C:\WINDOWS\SYSTEM32\mswstr10.dll=Yes
+C:\WINDOWS\SYSTEM32\mswdat10.dll=Yes
+C:\WINDOWS\SYSTEM32\msrd2x40.dll=Yes
+C:\WINDOWS\SYSTEM32\msrd3x40.dll=Yes
+C:\WINDOWS\SYSTEM32\msrepl40.dll=Yes
+C:\WINDOWS\SYSTEM32\msjtes40.dll=Yes
+C:\WINDOWS\SYSTEM32\VB5DB.DLL=Yes
+C:\WINDOWS\SYSTEM32\MSBIND.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView 5 Package\Support\StackView.exe=Yes
+C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView User Guide.pdf=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\Project Files\StackView.exe=$(AppPath)
+C:\WINDOWS\SYSTEM32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\scrrun.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\tabctl32.ocx=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(MSDAOPath)
+C:\WINDOWS\SYSTEM32\msjet40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSBIND.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView 5 Package\Support\StackView.exe=$(AppPath)
+C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView User Guide.pdf=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\Project Files\StackView.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView 5 Package\Support\StackView.exe=No
+C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView User Guide.pdf=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=StackView
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=StackView
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|StackView]
+Icon1=StackView.exe
+Title1=StackView
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5
+ProjectFolder=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5
+ServerSideCab=
+File1=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\setup.exe
+File2=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\Setup.Lst
+File3=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5 P3
+
+[Package|Standard Setup Package 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 2|Files Found]
+
+[Package|Standard Setup Package 2|Files Released]
+
+[Package|Standard Setup Package 2|Missing Dependency Information]
+
+[Package|Standard Setup Package 2|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM32\scrrun.dll=
+
+[Package|Standard Setup Package 2|Files Added]
+c:\documents and settings\pudar\my documents\data\home stuff\magic\visual basic programs\stackview v5\stackview user guide.pdf=
+
+[Package|Standard Setup Package 2|Files Removed]
+
+[Package|Standard Setup Package 2|Files In Project]
+C:\WINDOWS\SYSTEM32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM32\scrrun.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\WINDOWS\SYSTEM32\comdlg32.ocx=Yes
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\SYSTEM32\tabctl32.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView User Guide.pdf=Yes
+C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView.exe=Yes
+
+[Package|Standard Setup Package 2|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 2|Install Locations]
+C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\Project Files\StackView.exe=$(AppPath)
+C:\WINDOWS\SYSTEM32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\scrrun.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\tabctl32.ocx=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(MSDAOPath)
+C:\WINDOWS\SYSTEM32\msjet40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSBIND.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView 5 Package\Support\StackView.exe=$(AppPath)
+C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView User Guide.pdf=$(AppPath)
+C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView.exe=$(AppPath)
+
+[Package|Standard Setup Package 2|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\Project Files\StackView.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView 5 Package\Support\StackView.exe=No
+C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView User Guide.pdf=No
+C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView.exe=No
+
+[Package|Standard Setup Package 2|Distribution]
+Type=single
+Size=
+Title=StackView
+
+[Package|Standard Setup Package 2|IconGroups]
+Group0=StackView
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 2|StackView]
+Icon1=StackView.exe
+Title1=StackView
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 2|Package]
+PackageFolder=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5 P3
+ProjectFolder=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5
+ServerSideCab=
+File1=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5 P3\setup.exe
+File2=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5 P3\Setup.Lst
+File3=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5 P3\StackView.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

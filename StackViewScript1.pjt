@@ -1,0 +1,47 @@
+
+[InnoScript]
+
+UseUNCPath=0
+SearchPath=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\;C:\WINDOWS\SYSTEM32\;C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\Support\;
+LastSaveDir=C:\Program Files\Randem Systems\InnoScript\InnoScript 5.3
+PDWFile=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView.vbp
+VB6Dir=C:\Program Files\Randem Systems\InnoScript\InnoScript 5.3\VB 6 Redist Files\
+InnoSetupFile=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackViewScript1.iss
+MinWinVersion=1
+MinNTVersion=1
+ProcessFile=1
+SafeMode=True
+VBVersion=6
+TemplateProcess=0
+VersionType=2
+
+[ExcludeFolder]
+
+=
+
+[AddFolder]
+
+=
+
+[AddFiles]
+
+=
+LastFolder=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\
+File1=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView User Guide.pdf
+
+[Parameters]
+
+DesktopIcon=1
+QuickLaunchIcon=0
+AllowNoIcons=0
+AutoOSUpdater=0
+DotNetFramework=0
+DotNetFrameworkFilename=dotnetfx.exe
+AutoOSUpdaterFilename=None
+AppUpdatesURL=www.stackview.com
+WizardImageFile=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Magic\Cards\StackView Installer Logo Large.bmp
+WizardSmallImageFile=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Magic\Cards\StackView Installer Logo Small.bmp
+DefaultDirName=StackView
+PrivilegesRequired=2
+ProcessUnsafeFiles=1
+Compression=20

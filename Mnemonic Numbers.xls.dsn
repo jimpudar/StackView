@@ -1,0 +1,14 @@
+[ODBC]
+DRIVER=Driver do Microsoft Excel(*.xls)
+UID=admin
+UserCommitSync=Yes
+Threads=3
+SafeTransactions=0
+ReadOnly=0
+PageTimeout=5
+MaxScanRows=8
+MaxBufferSize=2048
+FIL=excel 8.0
+DriverId=790
+DefaultDir=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5
+DBQ=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\Mnemonic Numbers.xls

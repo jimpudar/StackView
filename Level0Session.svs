@@ -1,0 +1,4 @@
+SetStack("New Deck (Bicycle)")
+CutDeckRandom(X)
+Macro(Level1Session.svs)
+CutDeckRandom(X)

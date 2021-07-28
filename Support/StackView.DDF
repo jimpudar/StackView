@@ -1,0 +1,48 @@
+.OPTION EXPLICIT
+.Set Cabinet=off
+.Set Compress=off
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=6144
+.Set DiskDirectoryTemplate=".."
+.Set CompressionType=MSZIP
+.Set CompressionLevel=7
+.Set CompressionMemory=21
+.Set CabinetNameTemplate="StackView.CAB"
+"Setup.Lst"
+"setup.exe"
+.Set Cabinet=on
+.Set Compress=on
+"StackView.exe"
+"msvbvm60.dll"
+"OLEAUT32.DLL"
+"OLEPRO32.DLL"
+"ASYCFILT.DLL"
+"STDOLE2.TLB"
+"COMCAT.DLL"
+"MSSTDFMT.DLL"
+"scrrun.dll"
+"MSVCRT.DLL"
+"comdlg32.ocx"
+"MSCOMCTL.OCX"
+"RICHTX32.OCX"
+"RICHED32.DLL"
+"tabctl32.ocx"
+"dao360.dll"
+"msjet40.dll"
+"msjter40.dll"
+"msjint40.dll"
+"vbajet32.dll"
+"expsrv.dll"
+"mswstr10.dll"
+"mswdat10.dll"
+"msrd2x40.dll"
+"msrd3x40.dll"
+"msrepl40.dll"
+"msjtes40.dll"
+"VB5DB.DLL"
+"MSBIND.DLL"
+"MDAC_TYP.EXE"
+"SETUP1.EXE"
+"VB6STKIT.DLL"
+"ST6UNST.EXE"
+"StackView User Guide.pdf"

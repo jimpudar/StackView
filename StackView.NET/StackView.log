@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UpgradeLog Upgraded = "True" >
+    <Settings>
+        <Setting
+            Name = "LogFile"
+            Value = "StackView.log"
+        />
+        <Setting
+            Name = "GenerateInterfacesForClasses"
+            Value = "FALSE"
+        />
+        <Setting
+            Name = "ProjectName"
+            Value = "StackView"
+        />
+        <Setting
+            Name = "OutputName"
+            Value = "StackView.vbproj"
+        />
+        <Setting
+            Name = "OutputDir"
+            Value = "C:\Documents and Settings\Parents\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView.NET"
+        />
+        <Setting
+            Name = "ProjectPath"
+            Value = "C:\Documents and Settings\Parents\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView.vbp"
+        />
+        <Setting
+            Name = "MigrateProjectTo"
+            Value = "0"
+        />
+    </Settings>
+    <File
+        OldPath = "C:\Documents and Settings\Parents\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\Module1.bas"
+        NewPath = "C:\Documents and Settings\Parents\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView.NET\Module1.vb"
+        FileType = "Module"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "C:\Documents and Settings\Parents\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\frmMain8.frm"
+        NewPath = "C:\Documents and Settings\Parents\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView.NET\frmMain8.vb"
+        FileType = "MDI Form"
+        Upgraded = "False"
+    />
+    <Issue
+        Type = "Global Error"
+        Number = "4009"
+    >The referenced component CommonDialog is missing a design time license.</Issue>
+</UpgradeLog>
+

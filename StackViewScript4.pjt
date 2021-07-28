@@ -1,0 +1,89 @@
+
+[InnoScript]
+
+UseUNCPath=False
+LastSaveDir=C:\Program Files\Randem Systems\InnoScript\InnoScript 5.3\
+PDWFile=C:\Documents and Settings\Parents\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView.vbp
+InnoSetupFile=C:\Documents and Settings\Parents\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackViewScript5.iss
+MinWinVersion=1
+MinNTVersion=1
+ProcessFile=1
+SafeMode=True
+VBVersion=6
+VersionType=2
+XPThemes=0
+AdminRequest=0
+VistaAdminRequest=0
+VB6Dir=C:\Program Files\Randem Systems\InnoScript\InnoScript 9\VB 6 Redist Files\
+
+[Parameters]
+
+InternalInstalls=1
+IncludeURL=1
+DesktopIcon=0
+QuickLaunchIcon=0
+AllowNoIcons=0
+CRInstallation=0
+AutoOSUpdater=0
+DotNetFramework=0
+DotNetFrameworkFilename=dotnetfx.exe
+AutoOSUpdaterFilename=None
+MSScriptingRuntime=1
+PrivilegesRequired=2
+ProcessUnsafeFiles=1
+Compression=20
+
+[Associations]
+
+
+[Installations]
+
+
+[Templates]
+
+File1=C:\Documents and Settings\Parents\Local Settings\Application Data\Randem Systems\innoscript\Templates\Release.tpl
+
+[DataTemplates]
+
+UseTemplate1=Yes
+
+[AddFolders]
+
+
+[DataAddFolders]
+
+
+[AddFiles]
+
+LastFolder=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\Support\
+File1=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView User Guide.pdf
+File2=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\Support\scr56en.exe
+File3=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\Support\scripten.exe
+
+[DataAddFiles]
+
+UseAddFile1={app}
+UseAddFile2={app}
+UseAddFile3={app}
+
+[ExcludeFolders]
+
+Folder1=C:\Program Files\Randem Systems\InnoScript\InnoScript 9\VB 5 Redist Files\
+
+[DataExcludeFolders]
+
+UseExcludeFolder1=Yes
+
+[AddFonts]
+
+FontFolder=C:\WINDOWS\Fonts\
+
+[SearchFolders]
+
+Folder1=C:\Documents and Settings\Parents\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\
+Folder2=C:\Documents and Settings\Parents\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\Support\
+
+[DataSearchFolders]
+
+UseSearchFolder1=Yes
+UseSearchFolder2=Yes

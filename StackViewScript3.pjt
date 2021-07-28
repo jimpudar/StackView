@@ -1,0 +1,96 @@
+
+[InnoScript]
+
+PDWFile=C:\Documents and Settings\Parents\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView.vbp
+MinWinVersion=1
+MinNTVersion=3
+VBVersion=6
+ProcessFile=1
+TemplateProcess=0
+UseUNCPath=False
+SafeMode=True
+VersionType=2
+LastSaveDir=C:\Program Files\Randem Systems\InnoScript\InnoScript 5.3\
+VB6Dir=C:\Program Files\Randem Systems\InnoScript\InnoScript 5.3\VB 6 Redist Files\
+InnoSetupFile=C:\Documents and Settings\Parents\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackViewScript5.iss
+XPThemes=0
+AdminRequest=0
+VistaAdminRequest=0
+NTServicePack=8
+
+[Association1]
+
+
+[ExcludeFolders]
+
+Folder1=C:\Program Files\Randem Systems\InnoScript\InnoScript 9\VB 5 Redist Files\
+
+[AddFolders]
+
+
+[AddFiles]
+
+LastFolder=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\Support\
+File1=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\StackView User Guide.pdf
+File2=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\Support\scr56en.exe
+File3=C:\Documents and Settings\Pudar\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\Support\scripten.exe
+
+[Parameters]
+
+QuickLaunchIcon=0
+AutoOSUpdater=6
+AutoOSUpdaterFilename=VB_DCOM_MDAC_JET_AutoSetup_XP.exe
+DotNetFramework=0
+DotNetFrameworkFilename=dotnetfx.exe
+DesktopIcon=0
+AllowNoIcons=0
+ProcessUnsafeFiles=1
+PrivilegesRequired=2
+Compression=20
+InternalInstalls=1
+IncludeURL=1
+CRInstallation=0
+MSScriptingRuntime=1
+
+[Associations]
+
+
+[Installations]
+
+
+[SearchFolders]
+
+Folder1=C:\Documents and Settings\Parents\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\
+Folder2=C:\Documents and Settings\Parents\My Documents\Data\Downloads\InnoScript\
+Folder3=C:\Documents and Settings\Parents\My Documents\Data\Home Stuff\Magic\Visual Basic Programs\StackView V5\Support\
+
+[DataAddFiles]
+
+UseAddFile1={app}
+UseAddFile2={app}
+UseAddFile3={app}
+
+[Templates]
+
+File1=C:\Documents and Settings\Parents\Local Settings\Application Data\Randem Systems\innoscript\Templates\Release.tpl
+
+[AddFonts]
+
+FontFolder=C:\WINDOWS\Fonts\
+
+[DataExcludeFolders]
+
+UseExcludeFolder1=Yes
+
+[DataTemplates]
+
+UseTemplate1=Yes
+
+[DataAddFolders]
+
+
+[DataSearchFolders]
+
+UseSearchFolder1=Yes
+UseSearchFolder2=Yes
+UseSearchFolder3=Yes
